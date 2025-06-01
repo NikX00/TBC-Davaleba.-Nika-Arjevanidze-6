@@ -1,0 +1,252 @@
+.header {
+  margin-bottom: 42px;
+}
+.home {
+  margin-right: 35px;
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.discovery {
+  margin-right: 35px;
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.photos {
+  margin-right: 35px;
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.contact {
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.trending {
+  margin-bottom: 27px;
+  width: 120;
+  height: 28;
+  top: -436px;
+  left: -584px;
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.div1 {
+  margin-right: 40px;
+}
+.image1 {
+  position: relative;
+  width: 362px;
+  height: 186px;
+}
+.txt1 {
+  position: absolute;
+  width: 184px;
+  height: 23px;
+  top: 129px;
+  left: 41px;
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+.div2 {
+  position: relative;
+  width: 362px;
+  height: 171px;
+  background-color: #ffffff;
+  margin-right: 40px;
+}
+.p-text {
+  position: absolute;
+  width: 238px;
+  height: 36px;
+  color: #8a8787;
+  left: 37px;
+  top: 68px;
+}
+.clock {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 125px;
+  left: 40px;
+}
+.minute {
+  position: absolute;
+  width: 60px;
+  height: 12px;
+  color: #8a8787;
+  top: 127px;
+  left: 67px;
+}
+
+.image2 {
+  position: absolute;
+
+  width: 362px;
+  height: 186px;
+  bottom: 174px;
+  left: 402px;
+}
+.teext {
+  position: absolute;
+  width: 184px;
+  height: 23px;
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  left: 402px;
+  bottom: 315px;
+  left: 443px;
+  color: #ffffff;
+}
+.divblah {
+  position: absolute;
+  width: 238px;
+  height: 36px;
+  left: 439px;
+  top: 68px;
+  color: #8a8787;
+}
+.clock2 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 442px;
+  top: 127px;
+}
+.minutes {
+  position: absolute;
+  left: 469px;
+  top: 127px;
+  width: 200px;
+  color: #8a8787;
+}
+.image3 {
+  position: absolute;
+
+  width: 362px;
+  height: 186px;
+  left: 804px;
+  bottom: 174px;
+}
+.teqsti {
+  position: absolute;
+  left: 845px;
+  width: 184px;
+  height: 23px;
+  bottom: 315px;
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+.cont {
+  position: absolute;
+  left: 841px;
+  width: 238px;
+  height: 36px;
+  top: 68px;
+  color: #8a8787;
+}
+.saati {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 844px;
+  top: 127px;
+}
+.texti {
+  position: absolute;
+  left: 871px;
+  width: 300px;
+  height: 300px;
+  top: 127px;
+  color: #8a8787;
+}
+.happen {
+  margin-top: 57px;
+  margin-bottom: 30px;
+  color: #000000;
+  font-family: Roboto;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.diva1 {
+  display: inline-block;
+  position: relative;
+}
+.surati1 {
+  width: 758px;
+  height: 430px;
+}
+.naweri {
+  position: absolute;
+  width: 202px;
+  height: 23px;
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #ffffff;
+  top: 204px;
+  left: 278px;
+}
+.surati2 {
+  display: block;
+  width: 758px;
+  height: 430px;
+  margin-top: 42px;
+}
+
+.diva2 {
+  display: inline-block;
+}
+.surati3 {
+  display: block;
+  width: 362px;
+  height: 212px;
+  margin-bottom: 98px;
+}
+.surati4 {
+  display: block;
+  width: 362px;
+  height: 212px;
+  margin-bottom: 103px;
+}
+.surati5 {
+  display: block;
+  width: 362px;
+  height: 212px;
+}
+section {
+  position: relative;
+  display: inline-block;
+}
+.sec1 {
+  bottom: 430px;
+  left: 45px;
+}
